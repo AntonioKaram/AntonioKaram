@@ -8,7 +8,7 @@ I'm passionate about sustainable development, entrepreneurship, software enginee
 
 * 🌍  I'm based in Notre Dame, Indiana
 * ✉️  You can contact me at [akaram@nd.edu](mailto:akaram@nd.edu)
-* 🚀  I'm currently working on [Dunne Hall Website](http://dunnehall.com)
+* 🚀  I'm currently working on the [Dunne Hall Website](http://dunnehall.com)
 * 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on any projects!
 
