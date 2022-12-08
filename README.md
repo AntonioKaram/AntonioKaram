@@ -43,4 +43,4 @@ I'm passionate about sustainable development, entrepreneurship, software enginee
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AntonioKaram"><img src="https://github-readme-stats.vercel.app/api?username=AntonioKaram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0891b200&hide_border=false&show_icons=true" alt="AntonioKaram's GitHub stats" /></a>
+<a href="http://www.github.com/AntonioKaram"><img src="https://github-readme-stats.vercel.app/api?username=AntonioKaram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0891b200&hide_border=false&border_color=0891b2&show_icons=true" alt="AntonioKaram's GitHub stats" /></a>
