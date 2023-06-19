@@ -9,7 +9,7 @@ I am passionate about **cybersecurity** and **software engineering**. My goal is
 What drives my passion towards the intersection of those fields is their incorporation of all the components of our tech-driven world: hardware, software, and networks. This means that I get to use my experience in different areas, from **programming**, to **electronics**, **computer security**, **web development**, and **network protocols**, to solve problems in a unique and sustainable way.
 
 * 🌍  I'm based in Notre Dame, Indiana
-* ✉️  You can contact me at [akaram@nd.edu](mailto:akaram@nd.edu)
+* ✉️  You can contact me at [antonio-karam@outlook.com](mailto:antonio-karam@outlook.com)
 * 🚀  I'm currently working on the [Dunne Hall Website](http://dunnehall.com)
 * 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on any projects!
