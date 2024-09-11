@@ -10,7 +10,7 @@ What drives my passion towards the intersection of those fields is their incorpo
 
 * 🌍  I'm based in Notre Dame, Indiana
 * ✉️  You can contact me at [antonio.c.karam@gmail.com](mailto:antonio.c.karam@gmail.com)
-* 🚀  I'm currently working on the [Dunne Hall Website](http://dunnehall.com)
+* 🚀  I'm currently working on the Cybersecurity & AI Research
 * 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on any projects!
 
