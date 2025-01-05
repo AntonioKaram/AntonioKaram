@@ -39,7 +39,7 @@ What drives my passion towards the intersection of those fields is their incorpo
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" width="40" height="40" alt="Docker"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="36" height="36" alt="Bash Shell"/></a>
-<a href="https://www.ibm.com/docs/en/zos/2.1.0?topic=introduction-assembler-language" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/uRr.svg" width="36" height="36" alt="Assembly"/></a>
+<a href="https://www.ibm.com/docs/en/zos/2.1.0?topic=introduction-assembler-language" target="_blank" rel="noreferrer"><img src="https://jmp.sh/zOOe94Tl" width="36" height="36" alt="Assembly"/></a>
 <a href="https://www.verilog.com/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/uRh.svg" width="36" height="36" alt="Verilog"/></a>
 <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/uS2.svg" width="36" height="36" alt="Hackthebox"/></a>
 <a href="https://tableau.com/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/uRK.svg" width="36" height="36" alt="Tableau"/></a>
