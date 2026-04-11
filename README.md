@@ -1,17 +1,17 @@
 Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio Karam
 =====================================================================================================================================
 
-Computer Engineering Student at Notre Dame
+Security Engineer @ Oracle
 ------------------------------------------
 
-I am passionate about **cybersecurity** and **software engineering**. My goal is to engineer resource-efficient solutions that withstand the test of time. In the tech industry, that means building adaptable and scalable solutions.
+I am passionate about **cybersecurity** and *AI**. My goal is to engineer resource-efficient solutions that withstand the test of time. In the tech industry, that means building adaptable and scalable solutions.
 
 What drives my passion towards the intersection of those fields is their incorporation of all the components of our tech-driven world: hardware, software, and networks. This means that I get to use my experience in different areas, from **programming**, to **electronics**, **computer security**, **web development**, and **network protocols**, to solve problems in a unique and sustainable way.
 
-* 🌍  I'm based in Notre Dame, Indiana
+* 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [antonio.c.karam@gmail.com](mailto:antonio.c.karam@gmail.com)
 * 🚀  I'm currently working on the Cybersecurity & AI Research
-* 🧠  I'm learning Swift
+* 🧠  I'm learning about AI Agent Workflows
 * 🤝  I'm open to collaborating on any projects!
 
 ### Skills
