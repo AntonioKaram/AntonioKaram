@@ -8,8 +8,6 @@ Currently working on critical vulnerability analysis and AI-enabled security wor
 
 I’m especially interested in how AI can help engineers analyze vulnerabilities faster, evaluate risk more consistently, and build more resilient and scalable systems without losing the rigor required for high-impact security work.
 
-What drives my passion towards the intersection of those fields is their incorporation of all the components of our tech-driven world: hardware, software, and networks. This means that I get to use my experience in different areas, from **programming**, to **electronics**, **computer security**, **web development**, and **network protocols**, to solve problems in a unique and sustainable way.
-
 * 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [antonio.c.karam@gmail.com](mailto:antonio.c.karam@gmail.com)
 * 🚀  I'm currently working on the Cybersecurity & AI Research
